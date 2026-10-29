@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:FF4D8D&text=Thais%20Oliveira&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Engenharia%20de%20Software%20%7C%20ADS&descAlignY=60&descSize=18" alt="Banner Thais Oliveira" />
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF4D8D&center=true&vCenter=true&width=560&lines=Acadêmica+de+Engenharia+de+Software;Cursando+ADS+na+Universidade+Ceuma;Estudando+Python+e+HTML;Começando+minha+jornada+na+tecnologia" alt="Typing animation" />
-</div>
-
 <br>
 
 <!-- SOBRE MIM -->
@@ -31,45 +26,25 @@ Estou no começo da minha jornada na área de tecnologia, estudando **Python** e
 <!-- PROJETOS -->
 ## ✦ Projetos
 
-<a href="https://github.com/Thiago2202/Sebrae_Supernova">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiago2202&repo=Sebrae_Supernova&theme=dark&bg_color=0D0D0D&title_color=FF4D8D&icon_color=FF4D8D&text_color=FFFFFF&border_color=2A2A2A" alt="Sebrae Supernova" />
-</a>
-
-> Projeto desenvolvido em colaboração. Acesse o link acima para ver o que fizemos.
-
-<br>
-
-<!-- GITHUB STATS -->
-## ✦ Estatísticas
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThaisGeovanna&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=FF4D8D&icon_color=FF4D8D&text_color=FFFFFF&border_color=2A2A2A" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisGeovanna&layout=compact&hide_border=false&bg_color=0D0D0D&title_color=FF4D8D&text_color=FFFFFF&border_color=2A2A2A" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Sebrae Supernova</h3>
+      <p>Projeto desenvolvido em colaboração. Acesse o link para ver o que fizemos.</p>
+      <a href="https://github.com/Thiago2202/Sebrae_Supernova">
+        <img src="https://img.shields.io/badge/Ver%20projeto-FF4D8D?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- STREAK -->
+## ✦ Sequência
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ThaisGeovanna&background=0D0D0D&ring=FF4D8D&fire=FF4D8D&currStreakLabel=FF4D8D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888&border=2A2A2A" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-## ✦ Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaisGeovanna&bg_color=0D0D0D&color=FFFFFF&line=FF4D8D&point=FFFFFF&area=true&area_color=FF4D8D&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-<!-- TROPHIES -->
-## ✦ Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThaisGeovanna&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
