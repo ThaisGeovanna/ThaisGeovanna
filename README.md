@@ -5,34 +5,36 @@
 
 <br>
 
-<!-- SOBRE MIM -->
-## ✦ Sobre mim
+<!-- ABOUT ME -->
+## ✦ About me
 
-Sou **Thais Oliveira**, acadêmica de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Ceuma**.
-
-Estou no começo da minha jornada na área de tecnologia, estudando **Python** e **HTML** e aprendendo na prática através de projetos.
-
+I am **Thais Oliveira**, a student of **Software Engineering** and **Systems Analysis and Development (ADS)** at **Universidade Ceuma**. I am at the beginning of my journey in the field of technology, studying **Python** and **HTML** through hands-on projects. Currently, I am pursuing a degree in Software Engineering alongside a program in Systems Analysis and Development. I expect this academic background to provide me with a solid foundation in programming logic, data structures, algorithms, and databases, as well as in-depth knowledge of software design, testing, and maintenance. I intend to apply these concepts to practical projects, develop strong collaboration and communication skills—through teamwork and agile practices—and, ultimately, build the technical repertoire, professional network, and portfolio necessary to solve real-world problems using technology, while evolving into a responsible and well-rounded software engineer.
 <br>
 
-<!-- TECNOLOGIAS -->
-## ✦ Tecnologias
+<!-- OPEN TO COLLABORATION -->
+## ✦ Open to collaboration
+As a Software Engineering and Systems Analysis and Development (ADS) student, I am open to collaborating on projects, academic work, open source contributions, and other opportunities where I can learn, share knowledge, and grow alongside others. Feel free to reach out if you would like to build something together!
+<br>
+
+<!-- TECHNOLOGIES -->
+## ✦ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,html&theme=dark" alt="Technologies" />
 </p>
 
 <br>
 
-<!-- PROJETOS -->
-## ✦ Projetos
+<!-- PROJECTS -->
+## ✦ Projects
 
 <table>
   <tr>
     <td>
       <h3>Sebrae Supernova</h3>
-      <p>Projeto desenvolvido em colaboração. Acesse o link para ver o que fizemos.</p>
+      <p>Project developed in collaboration. Follow the link to see what we’ve done.</p>
       <a href="https://github.com/Thiago2202/Sebrae_Supernova">
-        <img src="https://img.shields.io/badge/Ver%20projeto-FF4D8D?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto" />
+        <img src="https://img.shields.io/badge/Ver%20projeto-FF4D8D?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
       </a>
     </td>
   </tr>
@@ -41,7 +43,7 @@ Estou no começo da minha jornada na área de tecnologia, estudando **Python** e
 <br>
 
 <!-- STREAK -->
-## ✦ Sequência
+## ✦ Sequence
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ThaisGeovanna&background=0D0D0D&ring=FF4D8D&fire=FF4D8D&currStreakLabel=FF4D8D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888&border=2A2A2A" alt="GitHub Streak" />
@@ -49,8 +51,21 @@ Estou no começo da minha jornada na área de tecnologia, estudando **Python** e
 
 <br>
 
+<!-- CERTIFICATES -->
+## ✦ Certificates
+
+<p>
+  <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">
+    <img src="https://img.shields.io/badge/Coursera-Certificate-0D0D0D?style=for-the-badge&logo=coursera&logoColor=FF4D8D" alt="Coursera Certificate" />
+  </a>
+</p>
+
+<p>
+  🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">View my certificate on Coursera</a>
+</p>
+
 <!-- SNAKE -->
-## ✦ Contribuições
+## ✦ Contributions
 
 <div align="center">
   <picture>
@@ -61,8 +76,8 @@ Estou no começo da minha jornada na área de tecnologia, estudando **Python** e
 
 <br>
 
-<!-- REDES SOCIAIS -->
-## ✦ Vamos conversar?
+<!-- SOCIAL MEDIA -->
+## ✦ Let's talk?
 
 <p>
   <a href="https://www.instagram.com/thais_.gfo?vrfl=ampsY3VmdXp4aHJh">
@@ -73,7 +88,7 @@ Estou no começo da minha jornada na área de tecnologia, estudando **Python** e
   </a>
 </p>
 
-<!-- RODAPÉ -->
+<!-- BASEBOARD -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF4D8D,100:000000&section=footer&text=Sempre%20aprendendo%20%E2%9C%A6&fontColor=FFFFFF&fontSize=22&fontAlignY=65" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF4D8D,100:000000&section=footer&text=Sempre%20aprendendo%20%E2%9C%A6&fontColor=FFFFFF&fontSize=22&fontAlignY=65" alt="Baseboard" />
 </div>
