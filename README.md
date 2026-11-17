@@ -64,8 +64,8 @@ As a Software Engineering and Systems Analysis and Development (ADS) student, I 
 </p>
 
 <p>
-  🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">View my certificate on Coursera</a><br>
-  🔗 <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">View my second certificate on Coursera</a>
+  🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">See my Learn Tailwind CSS certificate</a><br>
+  🔗 <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">See my certificate in Dynamic and Reactive Interfaces</a>
 </p>
 
 <!-- SNAKE -->
