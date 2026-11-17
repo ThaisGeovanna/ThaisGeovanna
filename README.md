@@ -58,10 +58,14 @@ As a Software Engineering and Systems Analysis and Development (ADS) student, I 
   <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">
     <img src="https://img.shields.io/badge/Coursera-Certificate-0D0D0D?style=for-the-badge&logo=coursera&logoColor=FF4D8D" alt="Coursera Certificate" />
   </a>
+  <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">
+    <img src="https://img.shields.io/badge/Coursera-Certificate-0D0D0D?style=for-the-badge&logo=coursera&logoColor=FF4D8D" alt="Coursera Certificate" />
+  </a>
 </p>
 
 <p>
-  🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">View my certificate on Coursera</a>
+  🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">View my certificate on Coursera</a><br>
+  🔗 <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">View my second certificate on Coursera</a>
 </p>
 
 <!-- SNAKE -->
