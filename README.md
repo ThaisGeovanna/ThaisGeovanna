@@ -59,13 +59,13 @@ As a Software Engineering and Systems Analysis and Development (ADS) student, I 
     <img src="https://img.shields.io/badge/Coursera-Certificate-0D0D0D?style=for-the-badge&logo=coursera&logoColor=FF4D8D" alt="Coursera Certificate" />
   </a>
   <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">
-    <img src="https://img.shields.io/badge/Coursera-Certificate-0D0D0D?style=for-the-badge&logo=coursera&logoColor=FF4D8D" alt="Coursera Certificate" />
   </a>
 </p>
 
 <p>
   🔗 <a href="https://coursera.org/share/2bfa2151344e9a27357a4bf5a56ed566">See my Learn Tailwind CSS certificate</a><br>
-  🔗 <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">See my certificate in Dynamic and Reactive Interfaces</a>
+  🔗 <a href="https://coursera.org/share/eec3a8a2800b74d3ef10b6e95d1b2f61">See my certificate in Dynamic and Reactive Interfaces</a><br>
+  🔗 <a href="https://coursera.org/share/b7f6de3556b0544587ea32946c9f08bc">See my Python Basics certificate</a>
 </p>
 
 <!-- SNAKE -->
